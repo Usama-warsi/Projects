@@ -1,4 +1,4 @@
-<h1>PROJECT</h1>
+<h1>PROJECTS LIST</h1>
 <h2>Own Website.</h2>
 Link: http://seositechecker.pro/<br>
 
