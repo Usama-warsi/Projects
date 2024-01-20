@@ -1,39 +1,39 @@
 PROJECT <br>
-Own Website.
-Link: http://seositechecker.pro/
+Own Website.<br>
+Link: http://seositechecker.pro/<br>
 
-ORIGAMI FOR ALL, APTECH METRO 1ST SEMESTER PROJECT.
-Link: https://usama-warsi.github.io/Origami/
+ORIGAMI FOR ALL, APTECH METRO 1ST SEMESTER PROJECT.<br>
+Link: https://usama-warsi.github.io/Origami/<br>
 
-RADIOCANS, APTECH METRO 2ND SEMESTER PROJECT.
-Link: https://drive.google.com/file/d/1rwK4YqfsU9W5EO6q4pg_0JpkOGXRaClM/view
+RADIOCANS, APTECH METRO 2ND SEMESTER PROJECT.<br>
+Link: https://drive.google.com/file/d/1rwK4YqfsU9W5EO6q4pg_0JpkOGXRaClM/view<br>
 
-SOUNDS GROUP, APTECH METRO 3RD SEMESTER PROJECT.
-Link: https://drive.google.com/file/d/1rtc9-QAQnKAUOe4NFBjuS3R3aMRIzYK3/view
+SOUNDS GROUP, APTECH METRO 3RD SEMESTER PROJECT.<br>
+Link: https://drive.google.com/file/d/1rtc9-QAQnKAUOe4NFBjuS3R3aMRIzYK3/view<br>
 
-WORDPRESS 
-Link: http://bhamymbc.org/
-      https://adamseventplanning.com/
-      https://mealkitmaker.com/ 
-      https://rrcs.one/ 
-      https://guidingmenbyab.com/ 
-      https://dooctor.ie/
-      https://sculptedcurves.net/
+WORDPRESS <br>
+Link: http://bhamymbc.org/<br>
+      https://adamseventplanning.com/<br>
+      https://mealkitmaker.com/ <br>
+      https://rrcs.one/ <br>
+      https://guidingmenbyab.com/ <br>
+      https://dooctor.ie/<br>
+      https://sculptedcurves.net/<br>
 
-Brands
-Link: https://rooseveltpublishers.com/  
-      https://seopromarvel.com/
-      https://wordpressmarvel.com/
-      https://marvelpublishers.com/
+Brands<br>
+Link: https://rooseveltpublishers.com/  <br>
+      https://seopromarvel.com/<br>
+      https://wordpressmarvel.com/<br>
+      https://marvelpublishers.com/<br>
 
-CODEIGNITER
-Link: https://www.webdesignmarvel.com/  
-      https://www.ceuspace.com/ 
+CODEIGNITER<br>
+Link: https://www.webdesignmarvel.com/  <br>
+      https://www.ceuspace.com/ <br>
 
-LARAVEL
-Link: http://crmv2.globalhostpros.com/ 
-      http://env.deploy.com.pk:3235/dealer/public/ 
+LARAVEL<br>
+Link: http://crmv2.globalhostpros.com/ <br>
+      http://env.deploy.com.pk:3235/dealer/public/ <br>
 
-Shopify
-Link: https://www.wearecoffeeco.com/
-      https://waveycasa.com/
+Shopify<br>
+Link: https://www.wearecoffeeco.com/<br>
+      https://waveycasa.com/<br>
